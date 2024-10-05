@@ -6,7 +6,7 @@
 
 **Alla base è il concetto di programmazione reattiva sfruttando una variante del design pattern: [Observer](https://refactoring.guru/design-patterns/observer)**
 
-[Problemi del pattern observe](<[https://en.wikipedia.org/wiki/Observer_pattern](https://en.wikipedia.org/wiki/Observer_pattern)>)
+[Problemi del pattern observe](https://en.wikipedia.org/wiki/Observer_pattern)
 
 [The Evolution of Signals in JavaScript](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
 
