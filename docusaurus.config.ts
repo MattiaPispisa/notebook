@@ -7,13 +7,13 @@ const config: Config = {
   tagline: "The Programming Notebook",
 
   // Set the production url of your site here
-  url: "https://MattiaPispisa.github.io/",
+  url: "https://MattiaPispisa.github.io",
   baseUrl: "/notebook/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Mattia Pispisa", // Usually your GitHub org/user name.
-  projectName: "notebook", // Usually your repo name.
+  organizationName: "MattiaPispisa", 
+  projectName: "notebook",
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

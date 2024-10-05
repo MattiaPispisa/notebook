@@ -1,8 +1,8 @@
 # Notebook
 
-Siamo ricoperti di informazioni, la progettazione software ed i tool nascono e crescono troppo in fretta.
+We are inundated with information, and software design and tools are evolving too rapidly.
 
-Questo è il mio quaderno dove cerco di:
+This is my notebook where I aim to:
 
-- riassumere in punti salienti quello che studio;
-- creo delle shortcut per raggiungere velocemente tutta la documentazione/esempi che mi servono nel momento in cui dovrò mettere in pratica quanto letto e/o studiato.
+- Summarize the key points of what I study.
+- Create shortcuts to quickly access all the documentation and examples I need when I have to apply what I've read or learned.
