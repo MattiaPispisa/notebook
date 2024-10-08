@@ -8,7 +8,7 @@ Sistema per prototipare dei sistemi di IA che possono essere "freeform", "struct
 
 [AI Studio](https://aistudio.google.com/app)
 
-**new prompt**
+**new prompt** 
 
 Tramite delle "system instructions" dici alla ia cosa fare.
 

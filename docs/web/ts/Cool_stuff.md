@@ -1,3 +1,5 @@
+# TS cool stuff
+
 ## Infer object keys
 
 ```ts
