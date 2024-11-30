@@ -1,3 +1,9 @@
+---
+id: architecture
+title: Architecture
+slug: /
+---
+
 # Architecture
 
 [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)

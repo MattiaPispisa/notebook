@@ -37,6 +37,7 @@ const config: Config = {
           routeBasePath: "",
           sidebarPath: "./sidebars.ts",
           editUrl: "https://github.com/MattiaPispisa/notebook/tree/main/",
+          showLastUpdateTime: true,
         },
       } satisfies Preset.Options,
     ],
