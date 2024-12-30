@@ -1,3 +1,9 @@
+---
+id: web_js_cool_stuff
+title: cool stuff
+slug: cool-stuff
+---
+
 # Cool stuff
 
 ## deep clone

@@ -1,6 +1,6 @@
 ---
 id: architecture
-title: Architecture
+title: architecture
 slug: /
 ---
 

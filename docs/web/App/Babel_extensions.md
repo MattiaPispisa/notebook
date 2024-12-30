@@ -1,3 +1,9 @@
+---
+id: web_app_babel
+title: babel
+slug: babel
+---
+
 # Babel extension
 
 ## JSX Extension

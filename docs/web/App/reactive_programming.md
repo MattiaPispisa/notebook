@@ -1,3 +1,9 @@
+---
+id: web_app_reactive_programming
+title: reactive programming
+slug: reactive-programming
+---
+
 # Reactive programming
 
 # Signals (reactive programming)

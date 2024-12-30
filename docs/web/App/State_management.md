@@ -1,3 +1,9 @@
+---
+id: web_app_state_management
+title: state management
+slug: state-management
+---
+
 # State management
 
 ## [Mergerino](https://github.com/fuzetsu/mergerino)

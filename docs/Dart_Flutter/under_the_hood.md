@@ -1,3 +1,9 @@
+---
+id: dart_flutter_under_the_hood
+title: under the hood
+slug: under-the-hood
+---
+
 # Under the hood
 
 ## memory

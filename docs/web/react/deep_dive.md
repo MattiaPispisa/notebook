@@ -1,3 +1,9 @@
+---
+id: web_react_deep_dive
+title: deep dive
+slug: deep-dive
+---
+
 # Deep dive react
 
 ## Concurrent mode

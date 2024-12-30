@@ -1,3 +1,9 @@
+---
+id: web_ts_cool_stuff
+title: cool stuff
+slug: cool-stuff
+---
+
 # TS cool stuff
 
 ## Infer object keys

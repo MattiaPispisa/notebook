@@ -1,3 +1,9 @@
+---
+id: dart_flutter_cool_stuff
+title: cool stuff
+slug: cool-stuff
+---
+
 # Cool stuff
 
 ## UI

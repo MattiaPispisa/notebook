@@ -1,3 +1,9 @@
+---
+id: google_ai_studio
+title: google ai studio
+slug: studio
+---
+
 # Google AI Studio
 
 Sistema per prototipare dei sistemi di IA che possono essere "freeform", "structured", "chat"

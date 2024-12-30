@@ -1,3 +1,9 @@
+---
+id: dart_flutter_build_a
+title: build a
+slug: build-a
+---
+
 # Build a
 
 - [Pokemon game](https://www.youtube.com/watch?v=d6vVRXqXKEI&list=WL&index=8&ab_channel=MitchKoko)

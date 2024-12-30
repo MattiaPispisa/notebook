@@ -1,3 +1,9 @@
+---
+id: dart_flutter_references
+title: references
+slug: references
+---
+
 # References
 
 ## Samples

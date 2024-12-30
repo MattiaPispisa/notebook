@@ -1,3 +1,9 @@
+---
+id: bluetooth
+title: bluetooth
+slug: bluetooth
+---
+
 # Bluetooth
 
 ## Classic

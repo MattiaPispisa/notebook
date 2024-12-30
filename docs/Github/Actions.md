@@ -1,3 +1,9 @@
+---
+id: github_actions
+title: github actions
+slug: github-actions
+---
+
 # Actions
 
 [Doc](https://github.com/features/actions)

@@ -1,3 +1,9 @@
+---
+id: web_app_build_a
+title: build a
+slug: build-a
+---
+
 # Building a...
 
 ### [Video Player in React](https://dev.to/documatic/building-a-video-player-in-react-1mlf)

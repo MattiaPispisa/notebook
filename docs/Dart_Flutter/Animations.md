@@ -1,3 +1,9 @@
+---
+id: dart_flutter_animations
+title: animations
+slug: animations
+---
+
 # Animations
 
 Good projects to explore for draw & animations:

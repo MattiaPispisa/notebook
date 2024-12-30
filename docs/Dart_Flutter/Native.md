@@ -1,3 +1,9 @@
+---
+id: dart_flutter_native
+title: native
+slug: native
+---
+
 # Native
 
 ## Dart FFI
